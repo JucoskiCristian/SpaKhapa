@@ -1,0 +1,15 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Page image **/
+#page img {
+	
+}
+
+/** Geral >> Wp container 4 paragraph **/
+.wp-container-4 p {
+	text-transform: none !important;
+}
+
